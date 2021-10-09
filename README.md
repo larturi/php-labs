@@ -3,7 +3,7 @@
 </h1>
 
 <h3>
-PoC, Labs, Algoritmos y Practicas PHP
+PoC, Labs, Algoritmos y Prácticas PHP
 </h3>
 
 ## 🚀 Quick start
@@ -13,12 +13,8 @@ PoC, Labs, Algoritmos y Practicas PHP
 
 `docker-compose up`
 
-<br/>
-
 ## Inicio
 `http://localhost:81/`
-
-<br/>
 
 ##### Made with ❤️ by Leandro Arturi
 
