@@ -15,8 +15,8 @@ PoC, Labs, Algoritmos y Practicas PHP
 
 <br/>
 
-## API GraphQL
-Inicio: `http://localhost:81/`
+## Inicio
+`http://localhost:81/`
 
 <br/>
 
