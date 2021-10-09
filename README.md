@@ -1,5 +1,5 @@
 <h1>
-  PoC PHP
+  Labs PHP
 </h1>
 
 <h3>
