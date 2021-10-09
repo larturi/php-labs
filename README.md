@@ -6,8 +6,6 @@
 PoC, Labs, Algoritmos y Practicas PHP
 </h3>
 
-<br/>
-
 ## 🚀 Quick start
 
 ### 🐳 Create and start the container 
